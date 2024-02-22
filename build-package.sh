@@ -2,7 +2,7 @@
 
 # Change these variables to build another version
 BEES_VERSION=0.10
-PACKAGE_VERSION=1
+PACKAGE_VERSION=2
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
