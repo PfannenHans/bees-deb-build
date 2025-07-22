@@ -1,8 +1,8 @@
 #!/usr/bin/env -S bash -e
 
 # Change these variables to build another version
-BEES_VERSION=0.10
-PACKAGE_VERSION=2
+BEES_VERSION=0.11
+PACKAGE_VERSION=0
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
